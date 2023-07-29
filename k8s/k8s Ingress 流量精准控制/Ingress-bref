@@ -1,0 +1,8 @@
+请用2200字左右写一篇关于“Kubernetes Ingress”的技术文章，要求如下：
+1. 前言
+2. 什么是 Ingress
+3. Ingress 的定义格式
+4. Ingress 的类型有哪几种？分别用 yaml 定义举例说明
+5. 该如何实现更新 Ingress
+6. Ingress Controller 和 Ingress Class 又是什么，如何使用
+7. 总结
